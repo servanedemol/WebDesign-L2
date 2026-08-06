@@ -1,0 +1,22 @@
+div{
+    border: 3px solid #0000ff;
+    height = 600px;
+    margin:5px;
+}
+
+div.content{
+    margin:5px;
+    float: left;
+}
+
+div#first{
+    background-color: #f323d1;
+    width:150px;
+    border: 5px solid #ff0000;
+}
+
+div#second{
+    background-color: #32a852;
+    width:300px;
+    border: 5px solid #000000;
+}
