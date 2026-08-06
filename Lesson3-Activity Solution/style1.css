@@ -1,0 +1,22 @@
+div{
+    height = 600px;
+    margin:5px;
+}
+
+div.content{
+    float: left;
+}
+
+div#first{
+    width:200px;
+}
+
+div#second{
+    
+    width:400px;
+   
+}
+div#third{
+    width:620px;
+    vertical-align: middle;
+}
